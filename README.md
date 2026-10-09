@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I'm Aufa 👋
+# Hi, I'm Hanisah 👋
+
 ### Hanisah Aufa Khalidah
 
 **Informatics Student · Web Development · Data & Machine Learning**
@@ -48,13 +49,13 @@ I'm an Informatics student at **Universitas Muhammadiyah Malang**, exploring the
 
 ## Featured Projects
 
-| Project | What It Explores | Main Technologies |
-|---|---|---|
-| 🎮 [Draft Atlas](https://github.com/aufa22/draft-atlas-website) | A Mobile Legends statistics website with season filters and sortable hero data. | HTML, CSS, JavaScript |
-| ✔️ [TASKORA](https://github.com/aufa22/TASKORA) | A productivity app combining task management, a focus timer, and mood-based recommendations. | JavaScript, Supabase Auth, localStorage |
-| 🎓 [Student Grade Prediction](https://github.com/aufa22/Prediksi-Nilai-Akhir) | Predicting student grades and comparing regression models using the UCI Student Performance dataset. | Python, Pandas, Scikit-learn |
-| ⚖️ [Case-Based Reasoning](https://github.com/aufa22/CBR-Penggelapan-PN-Jaksel) | Retrieving similar court-case documents using TF-IDF and cosine similarity. | Python, Scikit-learn, Jupyter |
-| 📊 [Game Addiction](https://github.com/aufa22/Game-Addiction) | An academic project combining data exploration, simulation, and an interactive dashboard. | Python, Streamlit, Pandas |
+| Project                                                                        | What It Explores                                                                                     | Main Technologies                       |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 🎮 [Draft Atlas](https://github.com/aufa22/draft-atlas-website)                | A Mobile Legends statistics website with season filters and sortable hero data.                      | HTML, CSS, JavaScript                   |
+| ✔️ [TASKORA](https://github.com/aufa22/TASKORA)                                | A productivity app combining task management, a focus timer, and mood-based recommendations.         | JavaScript, Supabase Auth, localStorage |
+| 🎓 [Student Grade Prediction](https://github.com/aufa22/Prediksi-Nilai-Akhir)  | Predicting student grades and comparing regression models using the UCI Student Performance dataset. | Python, Pandas, Scikit-learn            |
+| ⚖️ [Case-Based Reasoning](https://github.com/aufa22/CBR-Penggelapan-PN-Jaksel) | Retrieving similar court-case documents using TF-IDF and cosine similarity.                          | Python, Scikit-learn, Jupyter           |
+| 📊 [Game Addiction](https://github.com/aufa22/Game-Addiction)                  | An academic project combining data exploration, simulation, and an interactive dashboard.            | Python, Streamlit, Pandas               |
 
 ## What I'm Exploring
 
